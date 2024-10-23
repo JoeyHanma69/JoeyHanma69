@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JoeyHanma69
-- 👀 I’m interested in Martial Arts, Gym, Computer Science, Gaming, Cinemas & TV Series
-- 🌱 I’m currently learning Software Developement Artificial Intelligence 
+- 👀 I’m interested in Martial Arts, Gym, Computer Science, Gaming, Cinemas, TV Series, Philsophy
+- 🌱 I’m currently learning Software Developement & Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me the nearest Muay Thai Club
-- 😄 Pronouns: Mauy/Thai
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:Still am a learner so i want to learn gaming developement via software developement
 
 <!---
