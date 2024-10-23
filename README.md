@@ -1,4 +1,4 @@
-# 💫 About Me: <br>- 👋 Hi, I’m Joseph Linao <br>- 👀 I’m interested in Martial Arts, Gym, Computer Science, Gaming, Cinemas, TV Series, Philsophy, Reading Books<br> <br>- 🌱 I’m currently learning Software Developement & Artificial Intelligence <br> <br>- 💞️ I’m looking to collaborate on small or big group projects and games <br> <br> <br>- 😄 Pronouns: He/Him<br> <br>- ⚡ Fun fact: currently learning Japanese
+# 💫 About Me: <br>- 👋 Hi, I’m Joseph Linao <br>- <br>- 👀 I’m interested in Martial Arts, Gym, Computer Science, Gaming, Cinemas, TV Series, Philsophy, Reading Books<br> <br>- 🌱 I’m currently learning Software Developement & Artificial Intelligence <br> <br>- 💞️ I’m looking to collaborate on small or big group projects and games <br> <br> <br>- 😄 Pronouns: He/Him<br> <br>- ⚡ Fun fact: currently learning Japanese
 
 
 ## 🌐 Socials:
